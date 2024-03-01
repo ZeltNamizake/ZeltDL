@@ -36,6 +36,9 @@ Youtube Mp4 [Direct Link]
 
 `pkg install git -y`
 
+`pkg install yarn -y`
+
+
 `git clone https://github.com/ZeltNamizake/ZeltDL`
 
 `cd ZeltDL`
